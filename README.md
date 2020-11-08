@@ -1,7 +1,7 @@
 # Pav Laravel Training
 
 ## Environment
-- [Laravel 8.X ](https://laravel.com/docs/8.x)
+- [Laravel 6.X ](https://laravel.com/docs/6.x)
 - PHP 7.2.*
 - MySQL 5.7
 
@@ -55,7 +55,7 @@
 1. cd pav-laravel
 1. export APP_DEBUG=true
 1. docker-compose build
-1. docker-compose up
+1. docker-compose up -d
 1. docker-compose run --rm web sh -c "export APP_DEBUG=true; .docker/setup.sh"
 
 ## Tips
