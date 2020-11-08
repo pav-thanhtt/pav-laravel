@@ -57,6 +57,7 @@
 1. docker-compose build
 1. docker-compose up
 1. docker-compose run --rm web sh -c "export APP_DEBUG=true; .docker/setup.sh"
+1. open URL [http://localhost:10080](http://localhost:10080)
 
 ## Tips
 ### Cache clear
