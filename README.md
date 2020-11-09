@@ -118,7 +118,6 @@ composer c
 ## Training Level
 ### Basic
 - [How Does Laravel Framework Work?](https://learn2torials.com/a/how-laravel-works)
-- [Building Your First Laravel Application](https://laravel-news.com/your-first-laravel-application)
 - [Laravel Routing](https://learn2torials.com/a/laravel-routing)
 - [Laravel Controllers](https://learn2torials.com/a/laravel-controllers)
 - [Laravel Views](https://learn2torials.com/a/laravel-views)
@@ -136,6 +135,7 @@ composer c
 - [Laravel Caching](https://learn2torials.com/a/laravel-caching)
 - [Creating Your Own PHP Helpers in a Laravel Project](https://laravel-news.com/creating-helpers)
 - [Optimize Laravel Eloquent Queries with Eager Loading](https://laravel-news.com/eloquent-eager-loading)
+- [Building Your First Laravel Application](https://laravel-news.com/your-first-laravel-application)
 ### Advance
 - [Laravel Socket IO Integration](https://learn2torials.com/a/setup-socket-io-with-laravel)
 - [Laravel Braintree Integration](https://learn2torials.com/a/integrate-braintree-using-laravel)
