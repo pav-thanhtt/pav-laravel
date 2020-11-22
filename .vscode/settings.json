@@ -1,0 +1,4 @@
+{
+    "blade.format.enable": true,
+    "php-cs-fixer.autoFixBySemicolon": true
+}
