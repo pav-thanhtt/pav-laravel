@@ -11,6 +11,9 @@
 |
 */
 
+Route::get('/payment/make', 'PaymentsController@make')->name('payment.make');
+Route::get('/payment/process', 'PaymentsController@process')->name('payment.process');
+
 Route::get('/', function () {
     return view('welcome');
 });
