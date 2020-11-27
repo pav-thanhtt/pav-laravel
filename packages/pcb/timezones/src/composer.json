@@ -1,0 +1,19 @@
+{
+    "name": "pcb/timezones",
+    "description": "Sample Laravel Package to show timezones",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sandip Patel",
+            "email": "demo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "PCB\\TimeZones\\": "src/"
+        }
+    }
+}
