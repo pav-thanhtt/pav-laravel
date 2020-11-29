@@ -85,6 +85,12 @@
             "php artisan clear-compiled",
             "php artisan optimize",
             "php artisan config:cache"
+        ],
+        "repositories": [
+            {
+                "type": "path",
+                "url": "packages/pcb/timezones/src"
+            }
         ]
     }
 }
